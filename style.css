@@ -135,19 +135,19 @@ nav ul li a {
 }
 
 .recipe-item ul {
-    list-style-type: disc; /* Bullet points dekhabe */
-    padding-left: 20px; /* Proper alignment er jonno */
-    text-align: left; /* List gulo left-aligned thakbe */
-    display: inline-block; /* Proper centering er jonno */
+    list-style-type: disc;
+    padding-left: 20px; 
+    text-align: left; 
+    display: inline-block; 
 }
 
 .recipe-item {
-    text-align: center; /* Puro section center e thakbe */
+    text-align: center; 
 }
 
 /* Centering the Featured Recipes Heading */
 #featured-recipes-container {
-    text-align: center; /* Title center hobe */
+    text-align: center; 
     width: 100%;
     margin-bottom: 20px;
     padding: 15px;
@@ -162,7 +162,7 @@ nav ul li a {
 /* Align Recipe Cards in Center */
 #featured-recipes {
     display: flex;
-    justify-content: center; /* Center align images */
+    justify-content: center;
     gap: 70px;
     flex-wrap: wrap;
 }
